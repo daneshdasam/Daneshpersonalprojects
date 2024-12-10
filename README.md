@@ -6,6 +6,7 @@ This Repository Contains all my Personal Projects
 
 
 Project Title: COVID-19 Data Exploration and Analysis (2020-2021)
+
 Description:
 This project involved an in-depth exploration of a global COVID-19 dataset, covering total cases, vaccinations, and population data during the 2020-2021 period. The dataset was sourced from the web and analyzed to uncover key insights at both global and continental levels.
 
