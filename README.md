@@ -17,8 +17,7 @@ Infection Rate Analysis: Determined countries with the highest infection rates r
 Death Rate Analysis: Identified countries with the highest death rates relative to their population.
 Regional Insights: Conducted similar analyses at the continental and global levels for broader insights.
 
-Technical Skills Applied:
-SQL Techniques: Joins, Common Table Expressions (CTEs), Temporary Tables, and Views.
+Technical Skills Applied: SQL Techniques: Joins, Common Table Expressions (CTEs), Temporary Tables, and Views.
 Advanced Functions: Window functions and aggregations for dynamic and cumulative calculations.
 Data Transformation: Converting data types to ensure consistency and accuracy in the analysis.
 This project highlights my ability to manipulate and analyze complex datasets, delivering actionable insights using SQL and structured data exploration techniques.
