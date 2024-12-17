@@ -19,9 +19,7 @@ Designed an executive-friendly dashboard with a focus on delivering actionable i
 
 Key Metrics: Added four summary cards at the top to display Overall Sales, Revenue, Profit, and Return Percentage.
 Performance Trends: Created a line chart to analyze the performance of key metrics over time using a Field Parameter for switching metrics dynamically.
-Product Insights:
-Matrix table showcasing the Top 10 Products by Revenue.
-Cards indicating the Most Ordered Product and the Most Returned Product.
+Product Insights: Matrix table showcasing the Top 10 Products by Revenue. Cards indicating the Most Ordered Product and the Most Returned Product.
 KPI Indicators: Added KPIs to compare Monthly Revenue, Transactions, and Profit Margin against the previous month.
 Slicers and Interactivity: Designed a Selection Panel using bookmarks to toggle visibility, enabling users to filter data by Country and Year for deeper analysis.
 
