@@ -32,6 +32,14 @@ Geographic Insights: Analyzed country-level performance to determine regions con
 
 This dashboard provides a clear, interactive, and data-driven approach to understanding sales performance, product trends, and returns, enabling stakeholders to make informed decisions.
 
+Report Page Preview:
+![Sales and Returns Analysis Dashboard Report View](https://github.com/user-attachments/assets/66639d19-e2ae-4199-9ca6-6760dab8f5c4)
+Measures in th Report:
+![Measures](https://github.com/user-attachments/assets/7ada35f8-035c-43b2-bf44-ce78f17b65dc)
+Dynamic Selection Pane:
+![Dynamic Selection Pane](https://github.com/user-attachments/assets/33aecee7-f86d-441e-b4c1-66a6526a50bf)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Title: COVID-19 DATA EXPLORATION AND ANALYSIS (2020-2021)
@@ -51,6 +59,7 @@ Advanced Functions: Window functions and aggregations for dynamic and cumulative
 Data Transformation: Converting data types to ensure consistency and accuracy in the analysis.
 
 This project highlights my ability to manipulate and analyze complex datasets, delivering actionable insights using SQL and structured data exploration techniques.
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
