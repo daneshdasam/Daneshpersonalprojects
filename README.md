@@ -34,8 +34,10 @@ This dashboard provides a clear, interactive, and data-driven approach to unders
 
 Report Page Preview:
 ![Sales and Returns Analysis Dashboard Report View](https://github.com/user-attachments/assets/66639d19-e2ae-4199-9ca6-6760dab8f5c4)
-Measures in th Report:
+
+Measures in the Report:
 ![Measures](https://github.com/user-attachments/assets/7ada35f8-035c-43b2-bf44-ce78f17b65dc)
+
 Dynamic Selection Pane:
 ![Dynamic Selection Pane](https://github.com/user-attachments/assets/33aecee7-f86d-441e-b4c1-66a6526a50bf)
 
